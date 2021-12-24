@@ -1,0 +1,457 @@
+[
+    {
+        "name": "outer_loop",
+        "nested": [
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 44.5996
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.073
+                    }
+                ],
+                "duration_ms": 75.6879
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.3121
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 30.7518
+                    }
+                ],
+                "duration_ms": 62.0839
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 30.835
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.5903
+                    }
+                ],
+                "duration_ms": 62.4569
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 30.6472
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 30.8161
+                    }
+                ],
+                "duration_ms": 61.4772
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.475
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 30.5912
+                    }
+                ],
+                "duration_ms": 62.0832
+            },
+            {
+                "name": "doMoreWork",
+                "nested": [],
+                "duration_ms": 108.251
+            }
+        ],
+        "duration_ms": 432.0519
+    },
+    {
+        "name": "outer_loop",
+        "nested": [
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.5673
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.6756
+                    }
+                ],
+                "duration_ms": 63.2635
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 45.1775
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.1662
+                    }
+                ],
+                "duration_ms": 76.3562
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 30.3527
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.4656
+                    }
+                ],
+                "duration_ms": 61.835
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 45.1284
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.018
+                    }
+                ],
+                "duration_ms": 76.1633
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.9853
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 44.9564
+                    }
+                ],
+                "duration_ms": 76.9529
+            },
+            {
+                "name": "doMoreWork",
+                "nested": [],
+                "duration_ms": 110.9329
+            }
+        ],
+        "duration_ms": 465.5274
+    },
+    {
+        "name": "outer_loop",
+        "nested": [
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.436
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 30.6164
+                    }
+                ],
+                "duration_ms": 62.0636
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.0472
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 30.1556
+                    }
+                ],
+                "duration_ms": 61.2185
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.7176
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 45.2753
+                    }
+                ],
+                "duration_ms": 77.0095
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.4751
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 30.6075
+                    }
+                ],
+                "duration_ms": 62.1074
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.3403
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 30.7242
+                    }
+                ],
+                "duration_ms": 62.08
+            },
+            {
+                "name": "doMoreWork",
+                "nested": [],
+                "duration_ms": 109.7589
+            }
+        ],
+        "duration_ms": 434.2457
+    },
+    {
+        "name": "outer_loop",
+        "nested": [
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 30.959
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.097
+                    }
+                ],
+                "duration_ms": 62.0789
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.6235
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 32.1876
+                    }
+                ],
+                "duration_ms": 63.8274
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 30.9887
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.2217
+                    }
+                ],
+                "duration_ms": 62.2226
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.2669
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.6435
+                    }
+                ],
+                "duration_ms": 62.9322
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 30.9246
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.3066
+                    }
+                ],
+                "duration_ms": 62.2533
+            },
+            {
+                "name": "doMoreWork",
+                "nested": [],
+                "duration_ms": 109.0571
+            }
+        ],
+        "duration_ms": 422.3844
+    },
+    {
+        "name": "outer_loop",
+        "nested": [
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.3694
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 30.2597
+                    }
+                ],
+                "duration_ms": 61.6466
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.5853
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.2236
+                    }
+                ],
+                "duration_ms": 62.825
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 30.8565
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 30.9523
+                    }
+                ],
+                "duration_ms": 61.826
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.1021
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 30.8468
+                    }
+                ],
+                "duration_ms": 61.9654
+            },
+            {
+                "name": "inner_loop",
+                "nested": [
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 30.2822
+                    },
+                    {
+                        "name": "doLittleWork",
+                        "nested": [],
+                        "duration_ms": 31.8063
+                    }
+                ],
+                "duration_ms": 62.104
+            },
+            {
+                "name": "doMoreWork",
+                "nested": [],
+                "duration_ms": 109.7568
+            }
+        ],
+        "duration_ms": 420.1341
+    }
+]
